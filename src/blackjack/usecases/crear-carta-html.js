@@ -1,7 +1,7 @@
 
 
 /**
- * 
+ * Crear Carta
  * @param {String} carta 
  * @returns {HTMLImageElement} image de retorno
  */
